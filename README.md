@@ -1,5 +1,5 @@
 # Vagrant-LAMP-Automate
-PROJECT - To Automate the hosting of LAMP web application to Linux (ubuntu) using Vagrantfile.
+ -- To Automate the provision and hosting of LAMP web application to Linux (ubuntu) using Vagrantfile --
 
 Prequisite:-
 1. Vagrant (For Automation of Vm's Provisions)
