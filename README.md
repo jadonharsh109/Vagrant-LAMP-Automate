@@ -13,7 +13,7 @@ Step 2. Install all Prequisites.
 
 Step 3. Open the Directory using GitBash.
 
-Step 4. Type "Vagrant up" and the Vm's will start booting up.
+Step 4. Type "vagrant up" and the Vm's will start booting up.
 
 Step 5. After booting of vm, Type "vagrant ssh" which will login to the linux machine.
 
