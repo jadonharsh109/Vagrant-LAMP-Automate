@@ -1,7 +1,7 @@
 # Vagrant-LAMP-Automate
  -- To Automate the provision and hosting of LAMP web application to Linux (ubuntu) using Vagrantfile --
 
-Prequisite:-
+Prerequisite:-
 1. Vagrant (For Automation of Vm's Provisions)
 2. Hypervisor (Ex. Oracle virtualbox)
 3. Terminal (Ex. Gitbash)
